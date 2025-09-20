@@ -1,0 +1,1 @@
+import{ia as r}from"./chunk-6KRDYWU2.js";var p=(()=>{class t{transform(i,e){return i.split(" ").slice(0,e).join(" ")}static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275pipe=r({name:"cuttext",type:t,pure:!0,standalone:!0})}}return t})();export{p as a};
