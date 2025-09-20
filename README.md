@@ -1,2 +1,2 @@
-# Angular-FreshCart
+# FreshCart
 E-Commerce Project on Angular
